@@ -1,0 +1,42 @@
+li.nav-item.nav-link {
+  color: white;
+}
+
+li.nav-item.nav-link.orange {
+  color: #F1A228;
+}
+/* src/components/TopMenu.css */
+
+.green-navbar {
+  background-color: green; /* Change to your desired shade of green */
+  color: white; /* Text color */
+  padding-bottom: 15px; /* Bottom padding */
+}
+
+
+#topMenu {
+  background-color: #017574;
+  color: green;
+  padding-bottom: 15px;
+}
+
+#centerImage {
+  height: 0;
+}
+
+#bottomText {
+  background-color: #017574;
+  color: white;
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+
+#bottomFooter {
+  background-color: #8E8579;
+  color: white;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
